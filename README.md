@@ -1,4 +1,4 @@
-### A review functionalities for a website.
+### A review functionality for a website.
 Demonstrating the use of React's useState & useEffect.
 
 ### Completed as a part of John Smilga's 'React Tutorial and Project' coursework.
