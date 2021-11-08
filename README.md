@@ -1,5 +1,5 @@
-# react-projects-7-slider
+### A review functionalities for a website.
+Demonstrating the use of React's useState & useEffect.
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+### Completed as a part of John Smilga's 'React Tutorial and Project' coursework.
+[React Tutorial and Project Coursework](https://www.udemy.com/course/react-tutorial-and-projects-course)
